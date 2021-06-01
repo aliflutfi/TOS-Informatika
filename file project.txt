@@ -1,5 +1,5 @@
 Bio Pembuat
 Nama            : Alif Lutfi Ikshanul Fikri
-Jenis Kelamin   : Pria
 NIM             : 531419041
 Kelas           : B
+Semester        : 4
